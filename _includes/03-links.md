@@ -1,1 +1,2 @@
-Replace this with a link to your a GitHub or social media profile.
+[Github Profile](https://github.com/ebony-jackson-hms) <br>
+[Nasa OpenMCT Github](https://nasa.github.io/openmct/)
